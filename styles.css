@@ -1,0 +1,52 @@
+body {
+  font-family: sans-serif;
+}
+
+header {
+  position: relative;
+  text-align: center;
+  border: 3px solid #73AD21;
+  border-style: double;
+  background-color: lightBlue;
+  padding: 20px;
+}
+
+h1 {
+  border-style: outset;
+  display: block;
+  margin: 10;
+}
+
+h1 li {
+  border-style: ;
+  font-size:10vw;
+  margin: 10;
+}
+
+nav ul {
+  
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav li {
+  border-style: outset;
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+}
+
+main {
+  padding: 20px;
+}
+
+label 
+ {
+  position: relative;
+  display: inline-block;
+}
